@@ -13,6 +13,8 @@
 		6596878122FC7AD700FE48AD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6596877F22FC7AD700FE48AD /* Main.storyboard */; };
 		6596878322FC7AD900FE48AD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6596878222FC7AD900FE48AD /* Assets.xcassets */; };
 		6596878622FC7AD900FE48AD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6596878422FC7AD900FE48AD /* LaunchScreen.storyboard */; };
+		6596878E22FC7C4000FE48AD /* PrinceCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6596878D22FC7C4000FE48AD /* PrinceCollectionViewController.swift */; };
+		6596879022FC7C5400FE48AD /* PrinceCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6596878F22FC7C5400FE48AD /* PrinceCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		6596878222FC7AD900FE48AD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6596878522FC7AD900FE48AD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6596878722FC7AD900FE48AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6596878D22FC7C4000FE48AD /* PrinceCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrinceCollectionViewController.swift; sourceTree = "<group>"; };
+		6596878F22FC7C5400FE48AD /* PrinceCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrinceCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				6596877922FC7AD700FE48AD /* AppDelegate.swift */,
 				6596877B22FC7AD700FE48AD /* SceneDelegate.swift */,
 				6596877D22FC7AD700FE48AD /* ViewController.swift */,
+				6596878D22FC7C4000FE48AD /* PrinceCollectionViewController.swift */,
+				6596878F22FC7C5400FE48AD /* PrinceCollectionViewCell.swift */,
 				6596877F22FC7AD700FE48AD /* Main.storyboard */,
 				6596878222FC7AD900FE48AD /* Assets.xcassets */,
 				6596878422FC7AD900FE48AD /* LaunchScreen.storyboard */,
@@ -141,6 +147,8 @@
 				6596877E22FC7AD700FE48AD /* ViewController.swift in Sources */,
 				6596877A22FC7AD700FE48AD /* AppDelegate.swift in Sources */,
 				6596877C22FC7AD700FE48AD /* SceneDelegate.swift in Sources */,
+				6596878E22FC7C4000FE48AD /* PrinceCollectionViewController.swift in Sources */,
+				6596879022FC7C5400FE48AD /* PrinceCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
